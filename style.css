@@ -6,7 +6,16 @@
 }
 
 /* nav */
-
+nav {
+  min-width: 100%;
+}
+nav ul {
+  min-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: ce;
+  list-style: none;
+}
 /* header */
 
 /* main */
